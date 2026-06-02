@@ -1,0 +1,18 @@
+Sleep-Talking-Pattern-Classifier-for-Emotional-Cognitive-State-Analysis/
+
+│
+├── README.md
+├── app.py
+├── requirements.txt
+├── Report.pdf
+│
+├── Figures/
+│   ├── system_architecture.png
+│   ├── design_flow.png
+│   ├── results.png
+│
+├── Dataset/
+│   ├── sample_sleep_audio.wav
+│
+└── Documentation/
+    └── Project_Structure.txt
