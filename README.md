@@ -29,7 +29,6 @@ This project focuses on sentiment analysis using Natural Language Processing (NL
 The complete project report is included in this repository.
 
 ## Future Improvements
-- Upload implementation code
 - Add datasets and preprocessing scripts
 - Include visualizations and performance metrics
 - Deploy as a web application
