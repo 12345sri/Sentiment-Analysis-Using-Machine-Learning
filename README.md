@@ -34,5 +34,17 @@ The complete project report is included in this repository.
 - Include visualizations and performance metrics
 - Deploy as a web application
 
+## Contribution
+
+This project was completed as part of a collaborative team. My contributions included data preprocessing, feature extraction, machine learning model implementation, performance evaluation, and comparative analysis of sentiment classification algorithms.
+
+Key areas of involvement:
+- Text preprocessing and data cleaning
+- TF-IDF and CountVectorizer feature extraction
+- Implementation of Machine Learning algorithms
+- Model training and testing
+- Performance analysis using Accuracy, Precision, Recall, and F1-Score
+- Documentation and project reporting
+  
 ## Author
 Sriporna Biswas
